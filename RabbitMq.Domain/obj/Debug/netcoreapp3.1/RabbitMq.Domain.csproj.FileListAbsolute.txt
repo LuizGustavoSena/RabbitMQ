@@ -1,0 +1,12 @@
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\bin\Debug\netcoreapp3.1\RabbitMq.Domain.deps.json
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\bin\Debug\netcoreapp3.1\RabbitMq.Domain.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\bin\Debug\netcoreapp3.1\RabbitMq.Domain.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.AssemblyInfoInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.AssemblyInfo.cs
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.csproj.CopyComplete
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Domain\obj\Debug\netcoreapp3.1\RabbitMq.Domain.pdb

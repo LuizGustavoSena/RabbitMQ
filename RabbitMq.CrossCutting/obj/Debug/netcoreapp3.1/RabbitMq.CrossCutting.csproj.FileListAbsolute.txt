@@ -1,0 +1,9 @@
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.deps.json
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.AssemblyInfo.cs
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.CrossCutting\obj\Debug\netcoreapp3.1\RabbitMq.CrossCutting.pdb

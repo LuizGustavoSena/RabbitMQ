@@ -1,0 +1,14 @@
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.deps.json
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.Domain.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.CrossCutting.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\bin\Debug\netcoreapp3.1\RabbitMq.Domain.pdb
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.AssemblyInfo.cs
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.csproj.CopyComplete
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.dll
+C:\Users\Luiz Sena\source\repos\RabbitMq\RabbitMq.Infrastrucuture.RabbitMq\obj\Debug\netcoreapp3.1\RabbitMq.Infrastrucuture.RabbitMq.pdb

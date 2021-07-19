@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cAnvebK2k0kC2VSgOZPtDLxsWeh4pmJ6hHot8u22gaVk53ARnwkXRljDeJM6slQ6bliIiGRwOELJS7VIqUjkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Sena\\source\\repos\\RabbitMq\\RabbitMq.CrossCutting\\RabbitMq.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
