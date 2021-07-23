@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RabbitMq.CrossCutting\RabbitMq.CrossCutting.csproj" />
     <ProjectReference Include="..\RabbitMq.Domain\RabbitMq.Domain.csproj" />
+    <ProjectReference Include="..\RabbitMq.Infrastrucuture.RabbitMq\RabbitMq.Infrastrucuture.RabbitMq.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "S6HkRGmOMTW9MPRK20MrpxnQaGVlCmxgYzPdCNSC+92+0mpOKdEbkBhs2wjFhmSeUdESfwMdtkzwdBipNDVBJg==",
+  "dgSpecHash": "+v1FoHEnMV8k96fEEctlbGEPxBIYB/+/FqANykLx2FTn0wnhl4I6lkvgd1bZM+hC7uChrDf7HqV76cQMmjefjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luiz Sena\\source\\repos\\RabbitMq\\RabbitMq.Domain\\RabbitMq.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Luiz Sena\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
     "C:\\Users\\Luiz Sena\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\Luiz Sena\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Luiz Sena\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Luiz Sena\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []

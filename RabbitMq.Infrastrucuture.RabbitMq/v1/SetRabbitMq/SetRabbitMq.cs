@@ -21,28 +21,24 @@ namespace RabbitMq.Infrastrucuture.RabbitMq.v1.SetRabbitMq
         {
             var factory = new ConnectionFactory() { HostName = _appSettings.Value.Rabbit.ServerName };
 
-            using(var connection = factory.CreateConnection())
-            {
-                using(var channel = connection.CreateModel())
-                {
-                    channel.ConfirmSelect();
+            using var connection = factory.CreateConnection();
+            using var channel = connection.CreateModel();
+            channel.ConfirmSelect();
 
-                    channel.QueueDeclare(queue: _appSettings.Value.Rabbit.queue,
-                                         durable: _appSettings.Value.Rabbit.durable,
-                                         exclusive: _appSettings.Value.Rabbit.exclusive,
-                                         autoDelete: _appSettings.Value.Rabbit.autoDelete,
-                                         arguments: _appSettings.Value.Rabbit.arguments);
+            channel.QueueDeclare(queue: _appSettings.Value.Rabbit.queue,
+                                 durable: _appSettings.Value.Rabbit.durable,
+                                 exclusive: _appSettings.Value.Rabbit.exclusive,
+                                 autoDelete: _appSettings.Value.Rabbit.autoDelete,
+                                 arguments: _appSettings.Value.Rabbit.arguments);
 
-                    var json = Newtonsoft.Json.JsonConvert.SerializeObject(person);
+            var json = Newtonsoft.Json.JsonConvert.SerializeObject(person);
 
-                    var body = Encoding.UTF8.GetBytes(json);
+            var body = Encoding.UTF8.GetBytes(json);
 
-                    channel.BasicPublish(exchange: _appSettings.Value.Rabbit.exchange,
-                                         routingKey: _appSettings.Value.Rabbit.routingKey,
-                                         basicProperties: _appSettings.Value.Rabbit.basicProperties,
-                                         body: body);
-                }
-            }
+            channel.BasicPublish(exchange: _appSettings.Value.Rabbit.exchange,
+                                 routingKey: _appSettings.Value.Rabbit.routingKey,
+                                 basicProperties: _appSettings.Value.Rabbit.basicProperties,
+                                 body: body);
         }
     }
 }

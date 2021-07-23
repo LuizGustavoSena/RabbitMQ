@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using AutoMapper;
+using MediatR;
 using RabbitMq.Domain.Interface.Tools;
 using RabbitMq.Domain.Models.Tools;
 using System.Threading;
@@ -9,20 +10,17 @@ namespace RabbitMq.Domain.Commands.v1.InsertRabbitMq
     public class InsertRabbitMqCommandHandler : IRequestHandler<InsertRabbitMqCommand, InsertRabbitMqCommandResponse>
     {
         private readonly ISetRabbitMq _setRabbitMq;
-
-        public InsertRabbitMqCommandHandler(ISetRabbitMq setRabbitMq)
+        private readonly IMapper _mapper;
+        public InsertRabbitMqCommandHandler(ISetRabbitMq setRabbitMq, IMapper mapper)
         {
             _setRabbitMq = setRabbitMq;
+            _mapper = mapper;
         }
 
         public Task<InsertRabbitMqCommandResponse> Handle(InsertRabbitMqCommand request, CancellationToken cancellationToken)
         {
-            Person person = new Person
-            {
-                Name = request.Name,
-                LastName = request.LastName,
-                Age = request.Age
-            };
+
+            Person person = _mapper.Map<Person>(request);
 
             _setRabbitMq.Set(person);
 
